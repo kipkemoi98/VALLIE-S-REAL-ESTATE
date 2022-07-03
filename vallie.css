@@ -1,0 +1,7 @@
+.st-image{
+    display: flex;
+    height: 10px;
+    flex-direction: row;
+    margin: 5px;
+    width: 150px;
+}
