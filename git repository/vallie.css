@@ -54,8 +54,6 @@ margin: auto;
 #w{
     font-size: 36px;
     color: blue;
-    flex-direction: row;
-    display: flex;
 }
 .sales{
     display: flex;
@@ -81,15 +79,13 @@ margin: auto;
 }
 .z{
     margin: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    font-weight: normal;
 }
 .x{
     display: flex;
     flex-direction: row;
     border: solid;
 }
+
 .i{
     margin: auto;
 }
